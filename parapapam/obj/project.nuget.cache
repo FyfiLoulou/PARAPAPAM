@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0W/VbJlN//VkCONQHQYeR5uilqUwiOIMsjl2A/hgXxdmB7M2D5m9Cq7O7WRRh/Oo3RXDGEbz9C9B8njsKVm34w==",
+  "success": true,
+  "projectFilePath": "/home/felix/Documents/PARAPAPAM/parapapam/parapapam.csproj",
+  "expectedPackageFiles": [
+    "/home/felix/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/felix/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/felix/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
